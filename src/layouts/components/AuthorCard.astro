@@ -1,0 +1,34 @@
+---
+import { getLangFromUrl, slugSelector } from "@/lib/utils/languageParser";
+import { plainify } from "@/lib/utils/textConverter";
+import ImageMod from "./ImageMod.astro";
+import Social from "./Social.astro";
+
+const { data } = Astro.props;
+const { title, image, social } = data.data;
+const lang = getLangFromUrl(Astro.url);
+---
+
+<div
+  class="rounded bg-theme-light p-8 text-center dark:bg-darkmode-theme-light"
+>
+  {
+    image && (
+      <ImageMod
+        class="mx-auto mb-6 rounded"
+        src={image}
+        alt={title}
+        width={120}
+        height={120}
+        format="webp"
+      />
+    )
+  }
+  <h4 class="mb-3">
+    <a href={slugSelector(`/${data.slug}`, lang)}>{title}</a>
+  </h4>
+  <p class="mb-4">
+    {plainify(data.body?.slice(0, 100))}
+  </p>
+  <Social source={social} className="social-icons" />
+</div>

@@ -1,0 +1,71 @@
+---
+import config from "@/config/config.json";
+import ImageMod from "./ImageMod.astro";
+import { getLangFromUrl, slugSelector } from "@/lib/utils/languageParser";
+
+const { src, srcDarkmode }: { src?: string; srcDarkmode?: string } = Astro.props;
+const {
+  logo,
+  logo_darkmode,
+  logo_width,
+  logo_height,
+  logo_text,
+  title,
+}: {
+  logo: string;
+  logo_darkmode: string;
+  logo_width: any;
+  logo_height: any;
+  logo_text: string;
+  title: string;
+} = config.site;
+
+const { theme_switcher }: { theme_switcher: boolean } = config.settings;
+const { default_language } = config.settings;
+
+let lang = getLangFromUrl(Astro.url);
+
+const disabledLanguages = config.settings.disable_languages as string[];
+if (disabledLanguages.includes(lang)) {
+  lang = default_language;
+}
+---
+
+<a href={slugSelector("/", lang)} class="navbar-brand inline-block">
+  {
+    src || srcDarkmode || logo || logo_darkmode ? (
+      <>
+        <ImageMod
+          src={src ? src : logo}
+          class={`inline-block ${theme_switcher && "dark:hidden"}`}
+          width={427}  // Fixed width: 427px
+          height={37}  // Fixed height: 37px
+          alt={title}
+          style={{
+            height: "18.5px",  // Fixed height
+            width: "213.5px",   // Fixed width
+          }}
+          format="webp"
+        />
+        {theme_switcher && (
+          <ImageMod
+            src={srcDarkmode ? srcDarkmode : logo_darkmode}
+            class={"hidden dark:inline-block"}
+            width={427}
+            height={37} 
+            alt={title}
+            style={{
+              height: "18.5px",
+              width: "213.5px", 
+            }}
+            format="webp"
+          />
+        )}
+      </>
+    ) : logo_text ? (
+      logo_text
+    ) : (
+      title
+    )
+  }
+</a>

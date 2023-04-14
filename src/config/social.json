@@ -1,0 +1,24 @@
+{
+  "main": [
+    {
+      "name": "facebook",
+      "icon": "FaFacebook",
+      "link": "https://www.facebook.com/people/Ethamukkala-Krishna-Chaitanya/pfbid02zak1U9Kv9Uv6KuPP3h4EpipiCbFXJDCPuXAeenVffYwBvJzTkvcxX2Qaj5yPRFUPl/"
+    },
+    {
+      "name": "twitter",
+      "icon": "FaTwitter",
+      "link": "https://x.com/ek020304net"
+    },
+    {
+      "name": "github",
+      "icon": "FaGithub",
+      "link": "https://github.com/ekrishnachaitanya2004"
+    },
+    {
+      "name": "linkedin",
+      "icon": "FaLinkedin",
+      "link": "https://www.linkedin.com/in/ethamukkala-krishna-chaitanya-440404222/"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+---
+import { supportedLang } from "@/lib/utils/languageParser";
+import { humanize } from "@/lib/utils/textConverter";
+
+const { className }: { className?: string } = Astro.props;
+
+const paths = Astro.url.pathname.split("/").filter((x) => x);
+
+let lang = "";
+if (supportedLang.includes(paths[0])) {
+  lang = paths.shift()!;
+}
+
+let baseHref = lang ? `/${lang}` : "/";
+let parts = [
+  {
+    label: "Home",
+    href: baseHref,
+    "aria-label":
+      Astro.url.pathname === baseHref || Astro.url.pathname === `${baseHref}/`
+        ? "page"
+        : undefined,
+  },
+];
+
+paths.forEach((label: string, i: number) => {
+  const href = `${baseHref}${paths.slice(0, i + 1).join("/")}`;
+  label !== "page" &&
+    parts.push({
+      label: humanize(label.replace(".html", "").replace(/[-_]/g, " ")) || "",
+      href,
+      "aria-label": Astro.url.pathname === href ? "page" : undefined,
+    });
+});
+---
+
+<nav aria-label="Breadcrumb" class={className}>
+  <ol class="inline-flex" role="list">
+    {
+      parts.map(({ label, ...attrs }, index) => (
+        <li class="mx-1 capitalize" role="listitem">
+          {index > 0 && <span class="inline-block mr-1">/</span>}
+          {index !== parts.length - 1 ? (
+            <a class="text-primary dark:text-darkmode-primary" {...attrs}>
+              {label}
+            </a>
+          ) : (
+            <span class="text-light dark:text-darkmode-light">{label}</span>
+          )}
+        </li>
+      ))
+    }
+  </ol>
+</nav>

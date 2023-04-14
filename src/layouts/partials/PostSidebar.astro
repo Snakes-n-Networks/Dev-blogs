@@ -1,0 +1,57 @@
+---
+import { getLangFromUrl, slugSelector } from "@/lib/utils/languageParser";
+import { humanize } from "@/lib/utils/textConverter";
+
+const { tags, categories, allCategories } = Astro.props;
+const lang = getLangFromUrl(Astro.url);
+---
+
+<div class="lg:col-4">
+  <!-- categories -->
+  <div class="mb-8">
+    <h5 class="mb-6">Categories</h5>
+    <div class="rounded bg-theme-light p-8 dark:bg-darkmode-theme-light">
+      <ul class="space-y-4">
+        {
+          categories.map((category: any) => {
+            const count = allCategories.filter(
+              (c: any) => c === category
+            ).length;
+            return (
+              <li>
+                <a
+                  class="flex justify-between hover:text-primary dark:hover:text-darkmode-primary"
+                  href={slugSelector(`/categories/${category}`, lang)}
+                >
+                  {humanize(category)} <span>({count})</span>
+                </a>
+              </li>
+            );
+          })
+        }
+      </ul>
+    </div>
+  </div>
+  <!-- tags -->
+  <div class="mb-8">
+    <h5 class="mb-6">Tags</h5>
+    <div class="rounded bg-theme-light p-6 dark:bg-darkmode-theme-light">
+      <ul>
+        {
+          tags.map((tag: any) => {
+            return (
+              <li class="inline-block">
+                <a
+                  class="m-1 block rounded bg-white px-3 py-1 hover:bg-primary hover:text-white dark:bg-darkmode-body dark:hover:bg-darkmode-primary dark:hover:text-dark"
+                  href={slugSelector(`/tags/${tag}`, lang)}
+                >
+                  {humanize(tag)}
+                </a>
+              </li>
+            );
+          })
+        }
+      </ul>
+    </div>
+  </div>
+</div>
