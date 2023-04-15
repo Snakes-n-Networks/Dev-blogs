@@ -1,10 +1,10 @@
 ---
 enable: true
-title: "Ready to build your next project with Admin?"
+title: "If you're interested in creating your first blog, feel free to contact me!"
 image: "/images/logo1.png"
-description: "Experience the future of web development with Astroplate and Astro. Build lightning-fast static sites with ease and flexibility."
+description: "Ready to start your blogging journey? I can help you set up your first blog and guide you through the process. Reach out to me to get started!"
 button:
   enable: true
   label: "Contact"
-  link: "https://github.com/ekrishnachaitanya2004"
+  link: "https://github.com/ekrishnachaitanya2004/Dev-blogs/discussions/3"
 ---
