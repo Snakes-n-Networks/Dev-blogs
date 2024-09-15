@@ -1,7 +1,7 @@
 {
   "site": {
     "title": "Dev Blogs",
-    "base_url": "https://DevBlogs.netlify.app",
+    "base_url": "https://developersblogs.netlify.app",
     "base_path": "/",
     "trailing_slash": false,
     "favicon": "/images/favicon.png",
