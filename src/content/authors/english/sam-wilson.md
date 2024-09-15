@@ -1,12 +1,12 @@
 ---
-title: Sam Wilson
-email: samwilson@email.com
+title: eksandy
+email: 2021cse.r61@svec.edu.in
 image: "/images/avatar.png"
-description: this is meta description
+description: hello
 social:
   - name: github
     icon: FaGithub
-    link: https://github.com
+    link: https://github.com/eksandy
 
   - name: twitter
     icon: FaTwitter
@@ -17,4 +17,4 @@ social:
     link: https://linkedin.com
 ---
 
-lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostr navigation et dolore magna aliqua.
+Admin at https://developersblogs.netlify.app

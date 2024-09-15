@@ -4,9 +4,9 @@ meta_title: ""
 description: "Image to text"
 date: 2022-04-04T05:00:00Z
 image: "/images/image-placeholder.png"
-categories: ["Technology", "Data"]
+categories: ["python", "Image text converter"]
 author: "Krishna Chaitanya"
-tags: ["technology", "tailwind"]
+tags: ["Python", "image-to-text"]
 draft: false
 ---
 ## Introduction
