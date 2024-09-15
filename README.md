@@ -1,4 +1,4 @@
-# **Dev-Blogs**
+# [**Dev-Blogs**](https://developersblogs.netlify.app)
 
 [![License](https://img.shields.io/github/license/ekrishnachaitanya2004/dev-blogs?style=flat-square)](LICENSE)
 [![Issues](https://img.shields.io/github/issues/ekrishnachaitanya2004/dev-blogs?style=flat-square)](https://github.com/ekrishnachaitanya2004/dev-blogs/issues)
