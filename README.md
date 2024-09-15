@@ -84,7 +84,7 @@ dev-blogs/
 
 ## **Contributors**
 
-We appreciate all contributions to **Dev-Blogs**! You can see the full list of contributors [here](https://github.com/eksandy/dev-blogs/graphs/contributors).
+We appreciate all contributions to **Dev-Blogs**! You can see the full list of contributors [here](https://github.com/ekrishnachaitanya2004/dev-blogs/graphs/contributors).
 
 ## **License**
 
