@@ -1,4 +1,4 @@
-# **Dev-Blogs**
+# [**Dev-Blogs**](https://developersblogs.netlify.app)
 
 [![License](https://img.shields.io/github/license/ekrishnachaitanya2004/dev-blogs?style=flat-square)](LICENSE)
 [![Issues](https://img.shields.io/github/issues/ekrishnachaitanya2004/dev-blogs?style=flat-square)](https://github.com/ekrishnachaitanya2004/dev-blogs/issues)
@@ -84,7 +84,7 @@ dev-blogs/
 
 ## **Contributors**
 
-We appreciate all contributions to **Dev-Blogs**! You can see the full list of contributors [here](https://github.com/eksandy/dev-blogs/graphs/contributors).
+We appreciate all contributions to **Dev-Blogs**! You can see the full list of contributors [here](https://github.com/ekrishnachaitanya2004/dev-blogs/graphs/contributors).
 
 ## **License**
 
