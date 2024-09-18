@@ -13,9 +13,10 @@ banner:
 features:
   - title: "How to Create a Blog"
     image: "/images/service-1.png"
-    content: "Astroplate is a comprehensive starter template that includes everything you need to get started with your Astro project. What's Included in Astroplate"
+    content: "This starter template provides everything you need to kickstart your BLog Post."
     bulletpoints:
       - "[1.Click Get Started](https://github.com/ekrishnachaitanya2004/Dev-blogs)"
+
       - "2.Clone Your Fork"
       - "3.Add Your Blog Post"
       - "4.Commit and Push Your Changes"
@@ -29,7 +30,7 @@ features:
 
   - title: "Discover the Key Features Of Dev Blogs"
     image: "/images/service-2.png"
-    content: "Astro is an all-in-one web framework for building fast, content-focused websites. It offers a range of exciting features for developers and website creators. Some of the key features are:"
+    content: "Dev Blogs come packed with powerful features designed to enhance your blogging experience:"
     bulletpoints:
       - "**Open Source Contribution**: Anyone can contribute by forking the repository and submitting pull requests."
       - "**Community-Driven Content**: Blogs and articles are curated from a diverse community of developers."
@@ -47,7 +48,7 @@ features:
 
   - title: "Why Contribute to Our Open Source Project?"
     image: "/images/service-3.png"
-    content: "With Astro, you can build modern and content-focused websites without sacrificing performance or ease of use."
+    content: "Contributing to our open-source project offers numerous benefits:"
     bulletpoints:
       - "Dive into real-world coding challenges and refine your development skills by contributing to our project. Gain hands-on experience with cutting-edge technologies and methodologies."
       - "Become part of a supportive and dynamic community of developers and tech enthusiasts. Collaborate, share knowledge, and learn from others in an open and inclusive environment."
