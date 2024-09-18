@@ -22,14 +22,13 @@ features:
       - "4.Commit and Push Your Changes"
       - "5.Create a Pull Request"
       - "6.**Wait for Review**"
-      - "For Detailed Overview"
     button:
-      enable: false
-      label: "Get Started Now"
-      link: "https://github.com/ekrishnachaitanya2004/Dev-blogs.git"
+      enable: true
+      label: "Get Detailed Overview"
+      link: "/elements"
 
   - title: "Discover the Key Features Of Dev Blogs"
-    image: "/images/service-2.png"
+    image: "/images/contribution-2.png"
     content: "Dev Blogs come packed with powerful features designed to enhance your blogging experience:"
     bulletpoints:
       - "**Open Source Contribution**: Anyone can contribute by forking the repository and submitting pull requests."
@@ -44,10 +43,10 @@ features:
     button:
       enable: true
       label: "Get Started Now"
-      link: "https://github.com/zeon-studio/astroplate"
+      link: "https://github.com/ekrishnachaitanya2004/Dev-blogs"
 
   - title: "Why Contribute to Our Open Source Project?"
-    image: "/images/service-3.png"
+    image: "/images/contribution-3.png"
     content: "Contributing to our open-source project offers numerous benefits:"
     bulletpoints:
       - "Dive into real-world coding challenges and refine your development skills by contributing to our project. Gain hands-on experience with cutting-edge technologies and methodologies."
