@@ -11,6 +11,8 @@ draft: false
 ---
 The document presents an in-depth exploration of the application of machine learning (ML) techniques in detecting fraud in credit card payments and anomalies in e-commerce transactions. The rapid growth of e-commerce has led to a corresponding increase in fraudulent activities, making it crucial to have robust systems for detecting suspicious behavior and protecting both businesses and consumers. Here’s a more detailed breakdown of the paper:
 
+File : [_Google Drive_](https://drive.google.com/file/d/1Fa5d5wCvnMods0jUqf33TVuJUf4KLpzU/view?usp=sharing)
+
 ### **1. Introduction to the Problem**
 With the expansion of e-commerce and online payment systems, fraud in credit card transactions has become a significant concern. Fraudsters employ various techniques, including phishing, social engineering, malware, and identity theft, to exploit vulnerabilities in online systems. Therefore, detecting and preventing such activities is critical to safeguarding user data and financial assets.
 
@@ -82,5 +84,3 @@ The paper proposes a machine learning-based framework for identifying credit car
 The paper concludes that utilizing machine learning for fraud detection in online payments is an effective approach to enhance security, reduce losses, and improve customer experience. However, these systems require constant updates and improvements to counter the evolving tactics of fraudsters. Additionally, maintaining a balance between detection accuracy and minimizing false positives is crucial to avoid disrupting genuine user activities. 
 
 Ongoing research and development in machine learning and artificial intelligence will further enhance the effectiveness of these solutions, providing businesses with the tools needed to counter new threats in the online ecosystem.
-
-https://drive.google.com/file/d/1Fa5d5wCvnMods0jUqf33TVuJUf4KLpzU/view?usp=sharing
