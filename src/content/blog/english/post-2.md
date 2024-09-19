@@ -2,8 +2,8 @@
 title: "Building an Image-to-Text Converter with Handwritten Text Recognition"
 meta_title: ""
 description: "Image to text"
-date: 2022-04-04T05:00:00Z
-image: "/images/image-placeholder.png"
+date: 2024-09-04T05:00:00Z
+image: "https://www.pdfgear.com/pdf-converter/img/how-to-convert-handwriting-to-text-1.png"
 categories: ["Project","python", "Image text converter"]
 author: "Krishna Chaitanya"
 tags: ["Python", "image-to-text"]

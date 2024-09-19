@@ -3,7 +3,7 @@ title: "Loan Eligibility Predective Analyser"
 meta_title: ""
 description: "This repository presents a comprehensive predictive analytics solution for determining loan eligibility, leveraging advanced machine learning techniques and data preprocessing methodologies. The project is implemented in Google Colab, utilizing a dataset from Kaggle's Loan Data repository, which encompasses a diverse range of attributes pertinent to creditworthiness assessment."
 date: 2024-09-15T05:00:00Z
-image: "/images/image-placeholder.png"
+image: "https://cdn-images-1.medium.com/max/720/1*icDC8PUuu71tQCuDzl6zQg.png"
 categories: ["Project","Python","Software"]
 author: "Sanjeevan S"
 tags: ["Machine Learning", "Python3", "Kaggle" , "Pandas" , "Numpy"]
