@@ -1,8 +1,8 @@
 ---
 title: "Understanding Deep Learning: A Journey into the Future of AI"
 meta_title: ""
-description: "blog on deep learning"
-date: 2024-09-04T05:00:00Z
+description: "Blog on deep learning"
+date: 2024-09-20T05:00:00Z
 image: "https://cdn.futura-sciences.com/buildsv6/images/wide1920/5/8/a/58adcd3cfe_125715_deep-learning-cc-vigeco-fotoliacom.jpg"
 categories: ["Article","python", "Deep learning"]
 author: "Akkupalli Deepak yadav"
@@ -51,6 +51,9 @@ To embark on your deep learning journey, consider the following steps:
 3. **Stay Updated**: Follow blogs, research papers, and online communities to keep up with the latest advancements.
 
 Deep learning is not just a technological advancement; it's a paradigm shift that is reshaping our world. By understanding and harnessing its power, you can be at the forefront of this exciting field.
+
+[linkedin](https://www.linkedin.com/in/akkupalli-deepak-yadav-7a7550256/)
+[Github](https://github.com/Deepak71250)
 
 ---
 
