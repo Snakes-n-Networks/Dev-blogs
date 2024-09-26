@@ -80,4 +80,5 @@ We are a group of passionate developers with experience in:
 - **Integration and Testing**: Ensuring seamless interaction between the smart contracts and the user interface.
 
 ---
+[Refernece](https://docs.google.com/presentation/d/1EKuO0JD-LjZjGDEn8eQVMqiQyoiap_fe/edit?usp=sharing&ouid=105355364858122246330&rtpof=true&sd=true)
 
