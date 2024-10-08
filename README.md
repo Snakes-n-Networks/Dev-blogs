@@ -1,9 +1,9 @@
 # [**Dev-Blogs**](https://developersblogs.netlify.app)
 
 [![License](https://img.shields.io/github/license/ekrishnachaitanya2004/dev-blogs?style=flat-square)](LICENSE)
-[![Issues](https://img.shields.io/github/issues/ekrishnachaitanya2004/dev-blogs?style=flat-square)](https://github.com/ekrishnachaitanya2004/dev-blogs/issues)
-[![Forks](https://img.shields.io/github/forks/ekrishnachaitanya2004/dev-blogs?style=flat-square)](https://github.com/ekrishnachaitanya2004/dev-blogs/network/members)
-[![Stars](https://img.shields.io/github/stars/ekrishnachaitanya2004/dev-blogs?style=flat-square)](https://github.com/ekrishnachaitanya2004/dev-blogs/stargazers)
+[![Issues](https://img.shields.io/github/issues/ekrishnachaitanya2004/dev-blogs?style=flat-square)](https://github.com/Snakes-n-Networks/Dev-blogs/issues)
+[![Forks](https://img.shields.io/github/forks/ekrishnachaitanya2004/dev-blogs?style=flat-square)](https://github.com/Snakes-n-Networks/Dev-blogs/network/members)
+[![Stars](https://img.shields.io/github/stars/ekrishnachaitanya2004/dev-blogs?style=flat-square)](https://github.com/Snakes-n-Networks/Dev-blogs/stargazers)
 
 ## **Introduction**
 
@@ -25,7 +25,7 @@ Contributing to Dev-Blogs is simple and open to everyone! Follow these steps to 
 1. **Fork the Repository**: Click on the fork button at the top-right of this page to create a copy of the project on your GitHub account.
 2. **Clone the Forked Repository**: Clone the repository to your local machine.
    ```bash
-   git clone https://github.com/ekrishnachaitanya2004/dev-blogs
+   git clone https://github.com/Snakes-n-Networks/Dev-blogs
    ```
 3. **Create a New Branch**: 
    ```bash
@@ -84,7 +84,7 @@ dev-blogs/
 
 ## **Contributors**
 
-We appreciate all contributions to **Dev-Blogs**! You can see the full list of contributors [here](https://github.com/ekrishnachaitanya2004/dev-blogs/graphs/contributors).
+We appreciate all contributions to **Dev-Blogs**! You can see the full list of contributors [here](https://github.com/Snakes-n-Networks/Dev-blogs/graphs/contributors).
 
 ## **License**
 
@@ -94,5 +94,5 @@ This project is licensed under the MIT License. See the **[LICENSE](LICENSE)** f
 
 If you have any questions or want to get involved, feel free to reach out to us through:
 
-- GitHub Issues: [Submit a question or issue](https://github.com/ekrishnachaitanya2004/dev-blogs/issues)
+- GitHub Issues: [Submit a question or issue](https://github.com/Snakes-n-Networks/Dev-blogs/issues)
 - Email: [ekrishnachaitanya2004@gmail.com]

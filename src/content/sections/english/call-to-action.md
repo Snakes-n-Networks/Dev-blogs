@@ -6,5 +6,5 @@ description: "Ready to start your blogging journey? I can help you set up your f
 button:
   enable: true
   label: "Contact"
-  link: "https://github.com/ekrishnachaitanya2004/Dev-blogs/discussions/3"
+  link: "https://github.com/Snakes-n-Networks/Dev-blogs/discussions/3"
 ---
