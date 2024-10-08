@@ -5,7 +5,7 @@ description: "Ransomware"
 date: 2022-05-16T05:00:00Z
 image: "/images/snakes-ransomware.png"
 categories: ["Project","Ransomware", "Python"]
-author: "Krishna Chaitanya"
+author: "Krishna Chaitanya Ethamukkala"
 tags: ["snakes ransomware", "ransomware"]
 draft: false
 ---

@@ -25,7 +25,7 @@ To make contributions, you'll first need to fork the repository:
 ### **2. Clone Your Fork**
 Once you've forked the repository, clone it to your local machine using the following command:
 ```bash
-git clone https://github.com/ekrishnachaitanya2004/Dev-Blogs
+git clone https://github.com/Snakes-n-Networks/Dev-blogs
 ```
 This will create a local copy of the project on your machine.
 

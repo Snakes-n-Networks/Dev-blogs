@@ -7,7 +7,7 @@ banner:
   button:
     enable: true
     label: "Get Started For Free"
-    link: "https://github.com/ekrishnachaitanya2004/Dev-blogs.git"
+    link: "https://github.com/Snakes-n-Networks/Dev-blogs.git"
 
 # Features
 features:
@@ -15,7 +15,7 @@ features:
     image: "/images/service-1.png"
     content: "This starter template provides everything you need to kickstart your BLog Post."
     bulletpoints:
-      - "[1.Click Get Started](https://github.com/ekrishnachaitanya2004/Dev-blogs)"
+      - "[1.Click Get Started](https://github.com/Snakes-n-Networks/Dev-blogs)"
 
       - "2.Clone Your Fork"
       - "3.Add Your Blog Post"
@@ -43,7 +43,7 @@ features:
     button:
       enable: true
       label: "Get Started Now"
-      link: "https://github.com/ekrishnachaitanya2004/Dev-blogs"
+      link: "https://github.com/Snakes-n-Networks/Dev-blogs"
 
   - title: "Why Contribute to Our Open Source Project?"
     image: "/images/contribution-3.png"
