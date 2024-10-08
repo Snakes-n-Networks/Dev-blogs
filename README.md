@@ -1,9 +1,9 @@
 # [**Dev-Blogs**](https://developersblogs.netlify.app)
 
-[![License](https://img.shields.io/github/license/ekrishnachaitanya2004/dev-blogs?style=flat-square)](LICENSE)
-[![Issues](https://img.shields.io/github/issues/ekrishnachaitanya2004/dev-blogs?style=flat-square)](https://github.com/Snakes-n-Networks/Dev-blogs/issues)
-[![Forks](https://img.shields.io/github/forks/ekrishnachaitanya2004/dev-blogs?style=flat-square)](https://github.com/Snakes-n-Networks/Dev-blogs/network/members)
-[![Stars](https://img.shields.io/github/stars/ekrishnachaitanya2004/dev-blogs?style=flat-square)](https://github.com/Snakes-n-Networks/Dev-blogs/stargazers)
+[![License](https://img.shields.io/github/license/snakes-n-networks/dev-blogs?style=flat-square)](LICENSE)
+[![Issues](https://img.shields.io/github/issues/snakes-n-networks/dev-blogs?style=flat-square)](https://github.com/Snakes-n-Networks/Dev-blogs/issues)
+[![Forks](https://img.shields.io/github/forks/snakes-n-networks/dev-blogs?style=flat-square)](https://github.com/Snakes-n-Networks/Dev-blogs/network/members)
+[![Stars](https://img.shields.io/github/stars/snakes-n-networks/dev-blogs?style=flat-square)](https://github.com/Snakes-n-Networks/Dev-blogs/stargazers)
 
 ## **Introduction**
 
