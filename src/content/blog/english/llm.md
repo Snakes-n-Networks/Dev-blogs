@@ -3,7 +3,7 @@ title: "Understanding Large Language Models (LLMs) and Their Applications"
 meta_title: ""
 description: "LLMs and their importance in AI"
 date: 2024-10-25T00:00:00Z
-image: "images/download.jpeg"
+image: "https://pixelplex.io/wp-content/uploads/auto-resized/37187-1000x510.jpg"
 categories: ["AI", "Large Language Models", "Natural Language Processing"]
 author: "Ankush Chudiwal"
 tags: ["LLM", "Natural Language Processing", "AI", "Machine Learning"]
