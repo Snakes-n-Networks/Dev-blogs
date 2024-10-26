@@ -93,6 +93,6 @@ This project is licensed under the MIT License. See the **[LICENSE](LICENSE)** f
 ## **Contact**
 
 If you have any questions or want to get involved, feel free to reach out to us through:
-
+- Discord : [SERVER](https://discord.gg/wmuGFyaN)
 - GitHub Issues: [Submit a question or issue](https://github.com/Snakes-n-Networks/Dev-blogs/issues)
 - Email: [ekrishnachaitanya2004@gmail.com]
