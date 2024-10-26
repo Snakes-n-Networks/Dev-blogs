@@ -1,4 +1,3 @@
-```markdown
 ---
 title: "Understanding Large Language Models (LLMs) and Their Applications"
 meta_title: ""
@@ -126,4 +125,3 @@ For more insights on AI and programming, stay connected with **Krishna-Blogs**!
 
 [GitHub Repo](https://huggingface.co/) -- For reference  
 Contact: ankushchudiwalwit@gmail.com or snakesnnetworks@gmail.com
-```
