@@ -4,7 +4,7 @@ title: "Understanding Blockchain Technology and Its Applications"
 meta_title: ""  
 description: "A comprehensive look into blockchain technology and its impact across industries."  
 date: 2024-10-26T00:00:00Z  
-image: "../../../../public/images/blockchain.jpeg"  
+image: "https://blogs.iadb.org/caribbean-dev-trends/wp-content/uploads/sites/34/2017/12/Blockchain1.jpg"  
 categories: ["Blockchain", "Technology", "Cryptography"]  
 author: "Ankush Chudiwal"  
 tags: ["Blockchain", "Decentralization", "Cryptography", "Smart Contracts"]  
