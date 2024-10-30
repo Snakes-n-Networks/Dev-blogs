@@ -1,15 +1,20 @@
----
-title: "The Rise of AI Engineers in Modern Software Development"
-meta_title: ""
-description: "Exploring the transformation of software development with the emergence of AI Engineers"
-date: 2024-10-30T00:00:00Z
-image : ![AI Engineers](https://cdn.hashnode.com/res/hashnode/image/upload/v1728832208458/4423e295-0c34-46ca-8405-1d56affdd320.webp?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp)
+# The Rise of AI Engineers in Software Development
 
-categories: ["AI", "Software Development", "Career Growth","Engineering"]
-author: "Harsh Bopaliya"
-tags: ["AI Engineering", "Software Development", "Foundational Models", "Career" ,"Machine Learning" ,"Artificial Intelligence"]
-draft: false
----
+## Overview
+
+This blog post explores the emergence and role of AI engineers in modern software development. It discusses the importance of AI engineers, their key skills, applications across various industries, and future trends in AI engineering.
+
+### Metadata
+- **Title**: The Rise of AI Engineers in Software Development
+- **Meta Title**: 
+- **Description**: Exploring the emergence and role of AI engineers in modern software development.
+- **Date**: - 2024-10-30T00:00:00Z"
+- **Image**: ![AI Engineers](/public/images/ai_engineer.jpg)
+- **Categories**: ["AI", "Software Development", "Engineering"]
+- **Author**: Harsh Bopaliya
+- **Tags**: ["AI Engineer", "Software Development", "Machine Learning", "Artificial Intelligence"]
+- **Draft**: false
+
 
 ## The Evolution of AI Engineering
 
