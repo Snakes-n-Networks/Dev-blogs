@@ -25,7 +25,7 @@ Contributing to Dev-Blogs is simple and open to everyone! Follow these steps to 
 1. **Fork the Repository**: Click on the fork button at the top-right of this page to create a copy of the project on your GitHub account.
 2. **Clone the Forked Repository**: Clone the repository to your local machine.
    ```bash
-   git clone https://github.com/Snakes-n-Networks/Dev-blogs
+   git clone https://github.com/Developer-Blogs/Dev-blogs
    ```
 3. **Create a New Branch**: 
    ```bash
@@ -50,7 +50,7 @@ To run the project locally, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/eksandy/dev-blogs.git
+   git clone https://github.com/Developer-Blogs/Dev-blogs
    ```
 2. **Navigate to the Project Directory**:
    ```bash
@@ -84,7 +84,7 @@ dev-blogs/
 
 ## **Contributors**
 
-We appreciate all contributions to **Dev-Blogs**! You can see the full list of contributors [here](https://github.com/Snakes-n-Networks/Dev-blogs/graphs/contributors).
+We appreciate all contributions to **Dev-Blogs**! You can see the full list of contributors [here](https://github.com/Developer-Blogs/Dev-blogs/graphs/contributors).
 
 ## **License**
 
