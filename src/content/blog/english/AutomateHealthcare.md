@@ -2,9 +2,9 @@
 title: "Automating Healthcare: My Journey in Prescription Text Extraction"
 meta_title: ""
 description: "Harnessing AI and advanced OCR techniques to revolutionize the digitization of handwritten medical prescriptions, enhancing healthcare accuracy and operational efficiency."
-date: 
-image: ''
-categories: ["AI", "Software Development", "Engineering", "OCR", "Text Extraction"]
+date: 2024-11-27T13:00:00
+image: 'https://www.datamatics.com/hubfs/IA-Platform/images/healthcare-small-1.svg'
+categories: ["Article","AI", "Software Development", "Engineering", "OCR", "Text Extraction"]
 author: "Soham"
 tags: ["AI Engineer", "Software Development", "Machine Learning", "Artificial Intelligence"]
 draft: false
