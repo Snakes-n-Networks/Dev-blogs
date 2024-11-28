@@ -3,7 +3,7 @@ title: "The Rise of AI Engineers in Software Development"
 meta_title: ""
 description: "Exploring the emergence and role of AI engineers in modern software development."
 date: 2024-10-30T15:06:22
-image: '/images/ai_engineer.jpeg'
+image: 
 categories: ["AI", "Software Development", "Engineering"]
 author: "Harsh Bopaliya"
 tags: ["AI Engineer", "Software Development", "Machine Learning", "Artificial Intelligence"]
