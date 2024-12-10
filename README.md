@@ -10,7 +10,7 @@
 **Dev-Blogs** is an open-source blogging platform aimed at developers and tech enthusiasts. It allows contributors to write and share blogs about various technical topics, including programming, open-source software, and emerging technologies. This project encourages community collaboration by allowing developers to fork the repository, submit blog posts, and contribute to the platform's development.
 
 > [!NOTE]
-> If you’re interested in sharing your knowledge, stories, or tutorials but aren’t sure where to start, feel free to reach out. I’m here to help with any questions you might have about contributing.[Contact](https://discord.com/invite/wmuGFyaN)
+> If you’re interested in sharing your knowledge, stories, or tutorials but aren’t sure where to start, feel free to reach out. I’m here to help with any questions you might have about contributing.[Contact](https://discord.gg/nvGAqGSMws)
 > Looking forward to seeing your contributions! 😊
 ## **Key Features**
 
