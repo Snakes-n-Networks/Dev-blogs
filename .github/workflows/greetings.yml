@@ -1,0 +1,27 @@
+name: Greetings
+
+on: [pull_request_target, issues]
+
+jobs:
+  greeting:
+    runs-on: ubuntu-latest
+    permissions:
+      issues: write
+      pull-requests: write
+    steps:
+    - uses: actions/first-interaction@v1
+      with:
+        repo-token: ${{ secrets.GITHUB_TOKEN }}
+        issue-message: >
+          Hello @${{ github.actor }}! 👋
+
+          Thank you for opening your first issue in the **DevBlogs** repository. 
+          We're excited to have you join us on this journey of creating a vibrant community for sharing developer insights, tutorials, and projects. 
+          If you have any questions or need assistance, feel free to ask. Happy coding! 💻🚀
+
+        pr-message: >
+          Hello @${{ github.actor }}! 👋
+
+          Thank you for submitting your first pull request to **DevBlogs**! 
+          Your contributions are incredibly valuable in building this platform for developers worldwide. 
+          We'll review your changes shortly. If you need help or have any suggestions, don't hesitate to let us know. Keep contributing and inspiring! 🌟💻
