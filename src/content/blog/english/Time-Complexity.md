@@ -3,7 +3,7 @@ title: "🕒 Demystifying Time Complexity: A Guide for Developers"
 meta_title: "Understanding Time Complexity in Algorithms and Its Importance"
 description: "📚 Learn the basics of time complexity, Big-O notation, and how to write efficient algorithms that scale with input size. Optimize your code today! 🚀"
 date: 2025-01-02T15:06:22
-image: '[/images/time_complexity.jpg](https://cdn.botpenguin.com/assets/website/Time_Complexity_013225db4d.webp)'
+image: 'https://cdn.botpenguin.com/assets/website/Time_Complexity_013225db4d.webp'
 categories: ["Algorithms", "Computer Science", "Programming"]
 author: “Sravanthi”
 tags: ["Time Complexity", "Algorithms", "Big-O Notation", "Programming Tips"]
